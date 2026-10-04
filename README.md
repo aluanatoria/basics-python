@@ -1,1 +1,1 @@
-# basics-python
+Repositório voltado ao estudo da linguagem Python, por meio da produção de programas básicos e simples para realização de testes.
