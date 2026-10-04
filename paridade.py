@@ -1,4 +1,4 @@
-def paridade(num):
+def paridade(num : int):
     if num%2==0:
         return "par"
     else:
